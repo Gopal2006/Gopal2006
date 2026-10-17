@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gopal — software, deliberately built</title>
+  <desc id="desc">A dark terminal-inspired banner with shell prompts about web systems, developer tooling, and learning in public.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101318"/>
+      <stop offset="0.55" stop-color="#15191d"/>
+      <stop offset="1" stop-color="#0c1115"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ee7c1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#9aa7ff" stop-opacity="0.05"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#bac4cb" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#37414a" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="46" rx="17" fill="#1a2026"/>
+  <rect x="1" y="29" width="1198" height="18" fill="#1a2026"/>
+  <path d="M1 47.5H1199" stroke="#37414a"/>
+  <circle cx="26" cy="24" r="5.5" fill="#ed6a5e"/>
+  <circle cx="46" cy="24" r="5.5" fill="#e8b45f"/>
+  <circle cx="66" cy="24" r="5.5" fill="#70c99b"/>
+  <text x="600" y="29" text-anchor="middle" fill="#8c969f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">gopal@workbench: ~/engineering</text>
+  <rect x="760" y="47" width="440" height="252" fill="url(#glow)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="52" y="91" font-size="13" fill="#7ee7c1">$ whoami</text>
+    <text x="52" y="138" font-size="39" font-weight="700" letter-spacing="1.4" fill="#f0f2f2">GOPAL</text>
+    <text x="53" y="165" font-size="16" fill="#c0c8cf">FULL-STACK DEVELOPMENT / WEB SYSTEMS</text>
+    <text x="52" y="205" font-size="13" fill="#7ee7c1">$ current_focus --list</text>
+    <text x="52" y="230" font-size="15" fill="#d5dadd">web systems <tspan fill="#687680">/</tspan> developer tools <tspan fill="#687680">/</tspan> open source</text>
+    <text x="52" y="264" font-size="13" fill="#9aa7ff">status:</text>
+    <text x="109" y="264" font-size="13" fill="#c0c8cf">shipping · learning · refining</text>
+    <text x="1145" y="260" font-size="11" text-anchor="end" fill="#56636d">build useful things; keep receipts.</text>
+    <rect x="376" y="249" width="8" height="17" rx="1" fill="#7ee7c1" opacity="0.88"/>
+  </g>
+</svg>

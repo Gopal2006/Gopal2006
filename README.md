@@ -15,13 +15,20 @@
   </p>
 </div>
 
-About
-I'm Gopal, a Computer Science and Engineering student at IIIT Kota. I'm learning full-stack engineering by shipping real projects, understanding how systems behave, and working toward meaningful open-source contributions.
+---
+
+## About
+
+I'm Gopal, a Computer Science and Engineering student at **IIIT Kota**. I'm learning full-stack engineering by shipping real projects, understanding how systems behave, and working toward meaningful open-source contributions.
+
 I like software that feels considered: clear interfaces, dependable workflows, and performance that holds up when the content gets heavy. I would rather understand a bug and fix its cause than add another layer around it.
-- Building: a deployed media platform and a local voice-driven desktop automation prototype.
-- Exploring: web engineering, automation, and the habits that make open-source software easier to maintain.
-- Open source: learning unfamiliar codebases and working toward useful, test-backed contributions.
-Selected work
+
+- **Building:** a deployed media platform and a local voice-driven desktop automation prototype.
+- **Exploring:** web engineering, automation, and the habits that make open-source software easier to maintain.
+- **Open source:** learning unfamiliar codebases and working toward useful, test-backed contributions.
+
+## Selected work
+
 <table>
   <tr>
     <td width="100%">
@@ -46,27 +53,34 @@ Selected work
   </tr>
 </table>
 
-Current toolkit
-- Comfortable with: C, C++, Ollama
-- Early exposure: Hugging Face
-- Languages & data — learning: Python, Java, JavaScript, TypeScript, SQL, Pandas, NumPy
-- Web — learning: React, Next.js, Vite, Tailwind CSS, Node.js, Express, REST APIs
-- Data stores & tooling — learning: PostgreSQL, MongoDB, Supabase, Docker, Linux, Vercel, Railway, Postman
+## Current toolkit
+
+- **Comfortable with:** C, C++, Ollama
+- **Early exposure:** Hugging Face
+- **Languages & data — learning:** Python, Java, JavaScript, TypeScript, SQL, Pandas, NumPy
+- **Web — learning:** React, Next.js, Vite, Tailwind CSS, Node.js, Express, REST APIs
+- **Data stores & tooling — learning:** PostgreSQL, MongoDB, Supabase, Docker, Linux, Vercel, Railway, Postman
+
 I'm keeping this list honest: “learning” means I'm still building fluency and may use documentation or guidance. I leave tools off until I've actually spent time with them.
-Open-source activity
+
+## Open-source activity
+
 <!-- PROFILE:START:ACTIVITY -->
-The public activity feed will be populated by the first successful profile refresh.
+_The public activity feed will be populated by the first successful profile refresh._
 <!-- PROFILE:END:ACTIVITY -->
 
-<sub>Shows a small selection of recent public GitHub events. GitHub's public event API has a limited recent-history window; private activity is not shown.</sub>
-Pull requests
+<sub>Shows a small selection of recent **public** GitHub events. GitHub's public event API has a limited recent-history window; private activity is not shown.</sub>
+
+## Pull requests
+
 <!-- PROFILE:START:PRS -->
-Public pull requests will appear here automatically as they become available.
+_Public pull requests will appear here automatically as they become available._
 <!-- PROFILE:END:PRS -->
 
-GitHub snapshot
+## GitHub snapshot
+
 <!-- PROFILE:START:STATS -->
-The public profile snapshot will be populated by the first successful profile refresh.
+_The public profile snapshot will be populated by the first successful profile refresh._
 <!-- PROFILE:END:STATS -->
 
 <p align="center">
@@ -75,12 +89,19 @@ The public profile snapshot will be populated by the first successful profile re
 </p>
 
 <sub>Stats cards use a third-party service and may occasionally be unavailable. The generated snapshot above uses GitHub's public API. Language charts reflect repository contents, not skill level.</sub>
-Principles I'm working by
+
+## Principles I'm working by
+
 - Reproduce the problem before changing the code.
 - Keep diffs focused and test behavior, not just the happy path.
 - Optimize from measurements instead of guesses.
 - Write down what I learned so the next unfamiliar codebase is easier to understand.
-Education
-B.Tech, Computer Science and Engineering · Indian Institute of Information Technology, Kota
+
+## Education
+
+**B.Tech, Computer Science and Engineering** · Indian Institute of Information Technology, Kota  
 2024–2028
-<sub>Profile data refreshes daily through GitHub Actions. The refresh timestamp changes only when generated public data changes, so the automation doesn't create a needless daily commit. Last data update: <!-- PROFILE:START:UPDATED -->awaiting first successful refresh<!-- PROFILE:END:UPDATED --></sub>
+
+---
+
+<sub>Profile data refreshes daily through GitHub Actions. The refresh timestamp changes only when generated public data changes, so the automation doesn't create a needless daily commit. Last data update: <!-- PROFILE:START:UPDATED -->_awaiting first successful refresh_<!-- PROFILE:END:UPDATED --></sub>
