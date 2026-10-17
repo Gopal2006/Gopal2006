@@ -66,7 +66,9 @@ I'm keeping this list honest: “learning” means I'm still building fluency an
 ## Open-source activity
 
 <!-- PROFILE:START:ACTIVITY -->
-_The public activity feed will be populated by the first successful profile refresh._
+- **Push** · [neon-cinematics/neoncinematics](https://github.com/neon-cinematics/neoncinematics) — [pushed updates](https://github.com/neon-cinematics/neoncinematics/commits/main) · Oct 04
+- **Push** · [neon-cinematics/neoncinematics](https://github.com/neon-cinematics/neoncinematics) — [pushed updates](https://github.com/neon-cinematics/neoncinematics/commits/main) · Sep 17
+- **Push** · [neon-cinematics/neoncinematics](https://github.com/neon-cinematics/neoncinematics) — [pushed updates](https://github.com/neon-cinematics/neoncinematics/commits/main) · Sep 18
 <!-- PROFILE:END:ACTIVITY -->
 
 <sub>Shows a small selection of recent **public** GitHub events. GitHub's public event API has a limited recent-history window; private activity is not shown.</sub>
@@ -74,13 +76,23 @@ _The public activity feed will be populated by the first successful profile refr
 ## Pull requests
 
 <!-- PROFILE:START:PRS -->
-_Public pull requests will appear here automatically as they become available._
+| Pull request | Repository | Status |
+|---|---|---|
+| [#111 · Add 7-day cooldown to Dependabot updates](https://github.com/beeware/briefcase-windows-VisualStudio-template/pull/111) | [beeware/briefcase-windows-VisualStudio-template](https://github.com/beeware/briefcase-windows-VisualStudio-template) | `Closed` |
 <!-- PROFILE:END:PRS -->
 
 ## GitHub snapshot
 
 <!-- PROFILE:START:STATS -->
-_The public profile snapshot will be populated by the first successful profile refresh._
+<table align="center">
+  <tr>
+    <td align="center"><strong>Public repositories</strong><br />2</td>
+    <td align="center"><strong>Followers</strong><br />1</td>
+    <td align="center"><strong>Stars on personal public repos</strong><br />0</td>
+    <td align="center"><strong>GitHub since</strong><br />2021</td>
+  </tr>
+</table>
+<p align="center"><sub>Public profile data only; stars count repositories owned by this account.</sub></p>
 <!-- PROFILE:END:STATS -->
 
 <p align="center">
@@ -104,4 +116,6 @@ _The public profile snapshot will be populated by the first successful profile r
 
 ---
 
-<sub>Profile data refreshes daily through GitHub Actions. The refresh timestamp changes only when generated public data changes, so the automation doesn't create a needless daily commit. Last data update: <!-- PROFILE:START:UPDATED -->_awaiting first successful refresh_<!-- PROFILE:END:UPDATED --></sub>
+<sub>Profile data refreshes daily through GitHub Actions. The refresh timestamp changes only when generated public data changes, so the automation doesn't create a needless daily commit. Last data update: <!-- PROFILE:START:UPDATED -->
+_Last data update: 2026-10-17 05:29 UTC_
+<!-- PROFILE:END:UPDATED --></sub>
