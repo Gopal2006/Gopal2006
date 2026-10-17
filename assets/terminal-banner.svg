@@ -24,7 +24,7 @@
   <circle cx="26" cy="24" r="5.5" fill="#ed6a5e"/>
   <circle cx="46" cy="24" r="5.5" fill="#e8b45f"/>
   <circle cx="66" cy="24" r="5.5" fill="#70c99b"/>
-  <text x="600" y="29" text-anchor="middle" fill="#8c969f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">gopal@workbench: ~/engineering</text>
+  <text x="600" y="29" text-anchor="middle" fill="#8c969f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">gopalxcode@gmail.com: ~/engineering</text>
   <rect x="760" y="47" width="440" height="252" fill="url(#glow)"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <text x="52" y="91" font-size="13" fill="#7ee7c1">$ whoami</text>
@@ -34,7 +34,6 @@
     <text x="52" y="230" font-size="15" fill="#d5dadd">web systems <tspan fill="#687680">/</tspan> developer tools <tspan fill="#687680">/</tspan> open source</text>
     <text x="52" y="264" font-size="13" fill="#9aa7ff">status:</text>
     <text x="109" y="264" font-size="13" fill="#c0c8cf">shipping · learning · refining</text>
-    <text x="1145" y="260" font-size="11" text-anchor="end" fill="#56636d">build useful things; keep receipts.</text>
     <rect x="376" y="249" width="8" height="17" rx="1" fill="#7ee7c1" opacity="0.88"/>
   </g>
 </svg>
