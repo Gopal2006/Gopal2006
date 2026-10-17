@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal-banner.svg" width="100%" alt="Gopal — web engineering, developer tooling, and useful software" />
+  <img src="assets/terminal-banner.svg" width="100%" alt="Gopal - web engineering, developer tooling, and useful software" />
   <br />
   <p>
     <a href="https://neoncinematics.in">NEON CINEMATICS</a>
@@ -46,7 +46,7 @@ I like software that feels considered: clear interfaces, dependable workflows, a
   <tr>
     <td width="100%">
       <h3><a href="https://github.com/AASTROBOii7/VOXNAV">VoxNav</a> <sup><sub>PROTOTYPE · LOCAL TESTING</sub></sup></h3>
-      <p>A voice-driven desktop automation prototype. It has been tested locally with spoken commands that can launch applications and execute supported desktop tasks; it is not deployed yet.</p>
+      <p>A voice-driven desktop automation prototype. It has been tested with spoken commands that can launch applications and execute supported desktop tasks.</p>
       <p><code>Python</code> <code>Speech Recognition</code> <code>LLM Integration</code> <code>Desktop Automation</code></p>
       <p><a href="https://github.com/AASTROBOii7/VOXNAV">Source code</a></p>
     </td>
@@ -55,13 +55,9 @@ I like software that feels considered: clear interfaces, dependable workflows, a
 
 ## Current toolkit
 
-- **Comfortable with:** C, C++, Ollama
-- **Early exposure:** Hugging Face
-- **Languages & data — learning:** Python, Java, JavaScript, TypeScript, SQL, Pandas, NumPy
-- **Web — learning:** React, Next.js, Vite, Tailwind CSS, Node.js, Express, REST APIs
-- **Data stores & tooling — learning:** PostgreSQL, MongoDB, Supabase, Docker, Linux, Vercel, Railway, Postman
-
-I'm keeping this list honest: “learning” means I'm still building fluency and may use documentation or guidance. I leave tools off until I've actually spent time with them.
+- **Languages & data:** C, C++, Python, Java, JavaScript, TypeScript, SQL, Pandas, NumPy
+- **Web:** React, Next.js, Vite, Tailwind CSS, Node.js, Express, REST APIs
+- **Data stores & tooling:** PostgreSQL, MongoDB, Supabase, Docker, Linux, Vercel, Railway, Postman
 
 ## Open-source activity
 
@@ -70,8 +66,6 @@ I'm keeping this list honest: “learning” means I'm still building fluency an
 - **Push** · [neon-cinematics/neoncinematics](https://github.com/neon-cinematics/neoncinematics) — [pushed updates](https://github.com/neon-cinematics/neoncinematics/commits/main) · Sep 17
 - **Push** · [neon-cinematics/neoncinematics](https://github.com/neon-cinematics/neoncinematics) — [pushed updates](https://github.com/neon-cinematics/neoncinematics/commits/main) · Sep 18
 <!-- PROFILE:END:ACTIVITY -->
-
-<sub>Shows a small selection of recent **public** GitHub events. GitHub's public event API has a limited recent-history window; private activity is not shown.</sub>
 
 ## Pull requests
 
@@ -100,7 +94,6 @@ I'm keeping this list honest: “learning” means I'm still building fluency an
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal2006&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=9AA7FF&text_color=C9D1D9" alt="Languages detected in Gopal2006's public repositories, not a proficiency ranking" />
 </p>
 
-<sub>Stats cards use a third-party service and may occasionally be unavailable. The generated snapshot above uses GitHub's public API. Language charts reflect repository contents, not skill level.</sub>
 
 ## Principles I'm working by
 
@@ -115,7 +108,3 @@ I'm keeping this list honest: “learning” means I'm still building fluency an
 2024–2028
 
 ---
-
-<sub>Profile data refreshes daily through GitHub Actions. The refresh timestamp changes only when generated public data changes, so the automation doesn't create a needless daily commit. Last data update: <!-- PROFILE:START:UPDATED -->
-_Last data update: 2026-10-17 05:29 UTC_
-<!-- PROFILE:END:UPDATED --></sub>
