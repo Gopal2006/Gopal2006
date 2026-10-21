@@ -12,9 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gopal2006/Pharos">Pharos</a> &nbsp;·&nbsp;
-  <a href="https://github.com/AASTROBOii7/VOXNAV">VoxNav</a> &nbsp;·&nbsp;
-  <a href="https://neoncinematics.in">Neon Cinematics</a>
+  <a href="https://github.com/Gopal2006/Pharos">
+    <img src="https://img.shields.io/badge/Pharos-Repository-A84450?style=flat-square&amp;logo=github&amp;logoColor=D9878D&amp;labelColor=101114" alt="Pharos repository" />
+  </a>
+  <a href="https://github.com/AASTROBOii7/VOXNAV">
+    <img src="https://img.shields.io/badge/VoxNav-Repository-A84450?style=flat-square&amp;logo=github&amp;logoColor=D9878D&amp;labelColor=101114" alt="VoxNav repository" />
+  </a>
+  <a href="https://neoncinematics.in">
+    <img src="https://img.shields.io/badge/Neon_Cinematics-Website-A84450?style=flat-square&amp;logo=googlechrome&amp;logoColor=D9878D&amp;labelColor=101114" alt="Neon Cinematics website" />
+  </a>
 </p>
 
 ## About
