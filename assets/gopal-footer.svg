@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title desc">
+  <title id="title">Gopal2006 — CSE at IIIT Kota, software and video</title>
+  <desc id="desc">A restrained graphite footer with a fine muted-crimson line and simple profile metadata.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A84450" stop-opacity="0"/><stop offset="0.22" stop-color="#A84450"/><stop offset="0.72" stop-color="#D9878D" stop-opacity="0.72"/><stop offset="1" stop-color="#A84450" stop-opacity="0"/></linearGradient>
+    <pattern id="footer-grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E9E7E5" stroke-opacity="0.035"/></pattern>
+  </defs>
+  <rect width="1200" height="92" rx="12" fill="#101114"/><rect width="1200" height="92" rx="12" fill="url(#footer-grid)"/>
+  <path d="M34 25H1166" stroke="url(#line)" stroke-width="1.5"/><circle cx="34" cy="25" r="3" fill="#D9878D"/><circle cx="1166" cy="25" r="3" fill="#A84450"/>
+  <text x="60" y="61" fill="#E9E7E5" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="1.2">GOPAL2006</text>
+  <text x="1140" y="59" fill="#C4BAB9" text-anchor="end" font-family="monospace, 'Courier New'" font-size="13" letter-spacing="1.4">CSE @ IIIT KOTA  /  SOFTWARE + VIDEO</text>
+  <path d="M60 74H1140" stroke="#A84450" stroke-opacity="0.35"/>
+</svg>

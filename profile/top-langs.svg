@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-labelledby="title desc">
+  <title id="title">Repository language breakdown setup card</title>
+  <desc id="desc">This card will be replaced with a language breakdown after the profile workflow runs successfully.</desc>
+  <rect width="495" height="190" rx="12" fill="#101114" stroke="#353238"/><rect x="0" y="0" width="4" height="190" rx="2" fill="#A84450"/>
+  <text x="26" y="38" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#D9878D">LANGUAGES / REPOS</text>
+  <text x="26" y="77" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#E9E7E5">Language data isn't loaded yet.</text>
+  <text x="26" y="102" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B7B2B4">It updates from the public repositories</text>
+  <text x="26" y="121" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B7B2B4">when the workflow finishes successfully.</text>
+  <path d="M26 151 H469" stroke="#A84450" stroke-opacity=".6"/><text x="26" y="173" font-family="monospace, Courier New" font-size="10" letter-spacing="1" fill="#8D8585">LANGUAGE BREAKDOWN / GITHUB</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gopal — I build software and like figuring out how it works</title>
+  <desc id="desc">A dark graphite banner with muted crimson light, fine grid lines, and a simple circuit diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101114"/><stop offset="0.62" stop-color="#18161A"/><stop offset="1" stop-color="#0D0E11"/></linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.06" r="0.9"><stop offset="0" stop-color="#A84450" stop-opacity="0.28"/><stop offset="0.55" stop-color="#682A35" stop-opacity="0.1"/><stop offset="1" stop-color="#101114" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A84450" stop-opacity="0"/><stop offset="0.5" stop-color="#D9878D" stop-opacity="0.65"/><stop offset="1" stop-color="#A84450" stop-opacity="0"/><animate attributeName="x1" values="-1;1;-1" dur="16s" repeatCount="indefinite"/><animate attributeName="x2" values="0;2;0" dur="16s" repeatCount="indefinite"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E9E7E5" stroke-opacity="0.045" stroke-width="1"/></pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A84450"/><stop offset="1" stop-color="#D9878D" stop-opacity="0.15"/></linearGradient>
+    <clipPath id="round"><rect x="1" y="1" width="1198" height="358" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#glow)"/><rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M0 296 C180 265 330 320 500 288 S850 245 1200 282" fill="none" stroke="#A84450" stroke-opacity="0.16" stroke-width="1.2"/>
+    <path d="M0 305 C180 274 330 329 500 297 S850 254 1200 291" fill="none" stroke="url(#sweep)" stroke-width="1.5"/>
+    <g transform="translate(785 38)" fill="none" stroke-linecap="round">
+      <circle cx="180" cy="128" r="115" stroke="#D9878D" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="2 12"><animateTransform attributeName="transform" type="rotate" values="0 180 128;360 180 128" dur="110s" repeatCount="indefinite"/></circle>
+      <circle cx="180" cy="128" r="82" stroke="#A84450" stroke-opacity="0.38"/>
+      <circle cx="180" cy="128" r="48" stroke="#E9E7E5" stroke-opacity="0.12"/>
+      <path d="M36 190H105L143 151H214L260 98H330" stroke="#A84450" stroke-opacity="0.72" stroke-width="1.4"/>
+      <path d="M84 59H128L158 88H223L253 57H305" stroke="#E9E7E5" stroke-opacity="0.24"/>
+      <path d="M73 218H125L158 185H215L249 219H311" stroke="#E9E7E5" stroke-opacity="0.16"/>
+      <g fill="#D9878D" stroke="#101114" stroke-width="4"><circle cx="105" cy="190" r="4"/><circle cx="214" cy="151" r="4"/><circle cx="260" cy="98" r="4"/><circle cx="158" cy="88" r="3"/><circle cx="249" cy="219" r="3"/></g>
+      <g fill="#C4BAB9" font-family="monospace, 'Courier New'" font-size="10" letter-spacing="1.4" opacity="0.58"><text x="34" y="28">READ SOURCE</text><text x="235" y="252">TRACE FLOW</text><text x="17" y="244">TEST / FIX</text></g>
+    </g>
+    <g transform="translate(68 47)">
+      <rect width="186" height="28" rx="14" fill="#A84450" fill-opacity="0.14" stroke="#D9878D" stroke-opacity="0.38"/>
+      <circle cx="15" cy="14" r="3.5" fill="#D9878D"/>
+      <text x="28" y="18.5" fill="#E6C7C8" font-family="monospace, 'Courier New'" font-size="11" letter-spacing="1.3">CSE / WEB / SYSTEMS</text>
+      <text x="-2" y="117" fill="#F1EFED" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="72" font-weight="760" letter-spacing="-3">Gopal</text>
+      <rect x="0" y="135" width="128" height="4" rx="2" fill="url(#edge)"/>
+      <text x="0" y="177" fill="#D9878D" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600">I build software.</text>
+      <text x="0" y="207" fill="#D5D0D0" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="18">I like figuring out how it works.</text>
+      <text x="0" y="284" fill="#A8A3A4" font-family="monospace, 'Courier New'" font-size="12" letter-spacing="1.1">IIIT KOTA  /  CSE  /  2028</text>
+    </g>
+    <path d="M68 326H1132" stroke="#E9E7E5" stroke-opacity="0.13"/><path d="M68 326H268" stroke="url(#edge)" stroke-width="2"/>
+    <text x="1132" y="344" fill="#8D8585" text-anchor="end" font-family="monospace, 'Courier New'" font-size="9" letter-spacing="1.5">GOPAL2006 / SOFTWARE &amp; VIDEO</text>
+    <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#D9878D" stroke-opacity="0.23"/>
+  </g>
+</svg>
