@@ -3,7 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gopal2006">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Gopal2006"><img src="https://img.shields.io/badge/GitHub-Profile-1C1D22?style=flat-square&amp;logo=github&amp;logoColor=E9E7E5&amp;labelColor=101114" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/gopal-regar-543603324"><img src="https://img.shields.io/badge/LinkedIn-Connect-1C1D22?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2&amp;labelColor=101114" alt="LinkedIn profile" /></a>
+  <a href="https://leetcode.com/u/flasherXD/"><img src="https://img.shields.io/badge/LeetCode-Profile-1C1D22?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=101114" alt="LeetCode profile" /></a>
+  <!-- CodeChef badge slot — add the badge and profile URL here when your account link is available.
+  <a href="CODECHEF_PROFILE_URL"><img src="https://img.shields.io/badge/CodeChef-Profile-1C1D22?style=flat-square&amp;logo=codechef&amp;logoColor=D69A4C&amp;labelColor=101114" alt="CodeChef profile" /></a>
+  -->
+</p>
+
+<p align="center">
   <a href="https://github.com/Gopal2006/Pharos">Pharos</a> &nbsp;·&nbsp;
   <a href="https://github.com/AASTROBOii7/VOXNAV">VoxNav</a> &nbsp;·&nbsp;
   <a href="https://neoncinematics.in">Neon Cinematics</a>
@@ -46,14 +54,45 @@ The website and digital home of our student cinematography club. I help coordina
 
 ## Tools I use and learn
 
-**Languages**  
-`C` `C++` `Python` `Java` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
+**Languages**
 
-**Web development**  
-`React` `Vite` `Next.js` `Tailwind CSS` `Node.js` `Express` `REST APIs` `PostgreSQL` `MongoDB` `Supabase`
+<p>
+  <img src="https://img.shields.io/badge/C-1C1D22?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1C1D22?style=flat-square&amp;logo=cplusplus&amp;logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-1C1D22?style=flat-square&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1C1D22?style=flat-square&amp;logo=openjdk&amp;logoColor=F89820" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-1C1D22?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1C1D22?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-1C1D22?style=flat-square&amp;logoColor=E9E7E5" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-1C1D22?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1C1D22?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS" />
+</p>
 
-**Tools**  
-`Git` `Linux` `Docker` `Postman` `Ollama` `Hugging Face`
+**Web, backend and data**
+
+<p>
+  <img src="https://img.shields.io/badge/React-1C1D22?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-1C1D22?style=flat-square&amp;logo=vite&amp;logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-1C1D22?style=flat-square&amp;logo=nextdotjs&amp;logoColor=E9E7E5" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1C1D22?style=flat-square&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-1C1D22?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-1C1D22?style=flat-square&amp;logo=express&amp;logoColor=E9E7E5" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-1C1D22?style=flat-square&amp;logoColor=E9E7E5" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1C1D22?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1C1D22?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-1C1D22?style=flat-square&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
+</p>
+
+**Tools and AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-1C1D22?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-1C1D22?style=flat-square&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-1C1D22?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-1C1D22?style=flat-square&amp;logo=postman&amp;logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Ollama-1C1D22?style=flat-square&amp;logo=ollama&amp;logoColor=E9E7E5" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-1C1D22?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face" />
+</p>
 
 
 ## GitHub activity
@@ -74,7 +113,7 @@ The website and digital home of our student cinematography club. I help coordina
 - Check the edge cases, then clean up the fix so it still makes sense next week.
 - AI tools can help me move faster, but I still want to understand what I'm committing.
 
-<!-- Add LinkedIn, LeetCode, and CodeChef links once the exact profile URLs are ready. -->
+<!-- LinkedIn and LeetCode badges are live above. CodeChef stays commented out until the profile URL is available. -->
 
 <p align="center">
   <img src="./assets/gopal-footer.svg" alt="Gopal2006 — CSE at IIIT Kota, software and video work" width="100%" />
