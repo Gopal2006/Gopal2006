@@ -6,6 +6,7 @@
   <a href="https://github.com/Gopal2006"><img src="https://img.shields.io/badge/GitHub-Profile-1C1D22?style=flat-square&amp;logo=github&amp;logoColor=E9E7E5&amp;labelColor=101114" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/gopal-regar-543603324"><img src="https://img.shields.io/badge/LinkedIn-Connect-1C1D22?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2&amp;labelColor=101114" alt="LinkedIn profile" /></a>
   <a href="https://leetcode.com/u/flasherXD/"><img src="https://img.shields.io/badge/LeetCode-Profile-1C1D22?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=101114" alt="LeetCode profile" /></a>
+  <a href="https://neomjs.com/badges/gopal2006-87428874/"><img src="https://neomjs.com/badges/gopal2006-87428874/plate.svg" alt="Neo.mjs contributor" height="20"></a>
   <!-- CodeChef badge slot — add the badge and profile URL here when your account link is available.
   <a href="CODECHEF_PROFILE_URL"><img src="https://img.shields.io/badge/CodeChef-Profile-1C1D22?style=flat-square&amp;logo=codechef&amp;logoColor=D69A4C&amp;labelColor=101114" alt="CodeChef profile" /></a>
   -->
